@@ -1,7 +1,302 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f8b264fe-834b-483b-a529-8c9940689133" name="Default Changelist" comment="" />
+    <list default="true" id="f8b264fe-834b-483b-a529-8c9940689133" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/hydra.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/scala_sdk_2_10_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/spark_assembly_1_6_0_hadoop2_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/cn/test/JSONUtils2.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/cn/test01/Demo.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/cn/test01/JsonObjectUtils.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/cn/test01/PoisContext.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/cn/test01/TagsContext.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/cn/test01/TagsType.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/cn/test0824/Tags.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/cn/test0824/Test.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/ETL/GetProCityNum.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/ETL/PartDistribution.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/ETL/SchemaUtils.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/ETL/Txt2Parquet.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/Rqt/APPRpt.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/Rqt/JDBCPool.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/Rqt/LocationRpt.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/Rqt/LocationRptSql.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/Tag/BusinessTag.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/Tag/TagContext.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/Tag/TagContext2.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/Tag/TagContext3.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/Tag/TagsAd.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/Tag/TagsApp.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/Tag/TagsApp_redis.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/Tag/TagsApp_redis_fun.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/Tag/TagsChannl.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/Tag/TagsKeyWord.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/Tag/TagsProvince_City.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/Tag/TagsTerminal.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/channl/Channl.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/media/Media.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/terminal/Device.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/terminal/Net.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/terminal/Operation.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/terminal/Os.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/utils/AmapUtils.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/utils/App2Redis.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/utils/HttpUtils.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/utils/Mysql.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/utils/RedisPool.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/utils/RqtUtils.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/utils/Tag.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/utils/TagUtils.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/utils/Utils2Type.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/utils/test.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/graphx/Graph_test.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/application.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/test01/PoisContext$$anonfun$1$$anonfun$apply$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/test01/PoisContext$$anonfun$1$$anonfun$apply$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/test01/PoisContext$$anonfun$1$$anonfun$apply$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/test01/PoisContext$$anonfun$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/test01/PoisContext$$anonfun$2$$anonfun$apply$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/test01/PoisContext$$anonfun$2$$anonfun$apply$5$$anonfun$apply$6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/test01/PoisContext$$anonfun$2$$anonfun$apply$5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/test01/PoisContext$$anonfun$2$$anonfun$apply$7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/test01/PoisContext$$anonfun$2$$anonfun$apply$8.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/test01/PoisContext$$anonfun$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/test01/PoisContext$$anonfun$main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/test01/PoisContext$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/test01/PoisContext.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/test01/TagsContext$$anonfun$1$$anonfun$apply$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/test01/TagsContext$$anonfun$1$$anonfun$apply$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/test01/TagsContext$$anonfun$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/test01/TagsContext$$anonfun$2$$anonfun$apply$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/test01/TagsContext$$anonfun$2$$anonfun$apply$4$$anonfun$apply$5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/test01/TagsContext$$anonfun$2$$anonfun$apply$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/test01/TagsContext$$anonfun$2$$anonfun$apply$6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/test01/TagsContext$$anonfun$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/test01/TagsContext$$anonfun$main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/test01/TagsContext$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/test01/TagsContext.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/test0824/Test$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/test0824/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/ETL/GetProCityNum$$anonfun$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/ETL/GetProCityNum$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/ETL/GetProCityNum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/ETL/PartDistribution$$anonfun$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/ETL/PartDistribution$$anonfun$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/ETL/PartDistribution$$anonfun$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/ETL/PartDistribution$$anonfun$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/ETL/PartDistribution$$anonfun$main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/ETL/PartDistribution$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/ETL/PartDistribution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/ETL/SchemaUtils$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/ETL/SchemaUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/ETL/Txt2Parquet$$anonfun$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/ETL/Txt2Parquet$$anonfun$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/ETL/Txt2Parquet$$anonfun$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/ETL/Txt2Parquet$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/ETL/Txt2Parquet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Rqt/APPRpt$$anonfun$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Rqt/APPRpt$$anonfun$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Rqt/APPRpt$$anonfun$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Rqt/APPRpt$$anonfun$main$1$$anonfun$apply$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Rqt/APPRpt$$anonfun$main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Rqt/APPRpt$$anonfun$main$2$$anonfun$apply$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Rqt/APPRpt$$anonfun$main$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Rqt/APPRpt$$anonfun$main$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Rqt/APPRpt$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Rqt/APPRpt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Rqt/JDBCPool$$anonfun$getConn$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Rqt/JDBCPool$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Rqt/JDBCPool.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Rqt/LocationRpt$$anonfun$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Rqt/LocationRpt$$anonfun$main$1$$anonfun$apply$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Rqt/LocationRpt$$anonfun$main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Rqt/LocationRpt$$anonfun$main$2$$anonfun$apply$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Rqt/LocationRpt$$anonfun$main$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Rqt/LocationRpt$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Rqt/LocationRpt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Rqt/LocationRptSql$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Rqt/LocationRptSql.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Tag/BusinessTag$$anonfun$makeTags$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Tag/BusinessTag$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Tag/BusinessTag.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Tag/TagContext$$anonfun$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Tag/TagContext$$anonfun$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Tag/TagContext$$anonfun$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Tag/TagContext$$anonfun$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Tag/TagContext$$anonfun$main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Tag/TagContext$$anonfun$main$2$$anonfun$apply$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Tag/TagContext$$anonfun$main$2$$anonfun$apply$2$$anonfun$apply$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Tag/TagContext$$anonfun$main$2$$anonfun$apply$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Tag/TagContext$$anonfun$main$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Tag/TagContext$$anonfun$main$3$$anonfun$5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Tag/TagContext$$anonfun$main$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Tag/TagContext$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Tag/TagContext.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Tag/TagContext2$$anonfun$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Tag/TagContext2$$anonfun$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Tag/TagContext2$$anonfun$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Tag/TagContext2$$anonfun$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Tag/TagContext2$$anonfun$main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Tag/TagContext2$$anonfun$main$2$$anonfun$apply$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Tag/TagContext2$$anonfun$main$2$$anonfun$apply$2$$anonfun$apply$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Tag/TagContext2$$anonfun$main$2$$anonfun$apply$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Tag/TagContext2$$anonfun$main$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Tag/TagContext2$$anonfun$main$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Tag/TagContext2$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Tag/TagContext2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Tag/TagContext3$$anonfun$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Tag/TagContext3$$anonfun$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Tag/TagContext3$$anonfun$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Tag/TagContext3$$anonfun$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Tag/TagContext3$$anonfun$5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Tag/TagContext3$$anonfun$6$$anonfun$7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Tag/TagContext3$$anonfun$6$$anonfun$apply$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Tag/TagContext3$$anonfun$6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Tag/TagContext3$$anonfun$8$$anonfun$apply$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Tag/TagContext3$$anonfun$8.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Tag/TagContext3$$anonfun$main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Tag/TagContext3$$anonfun$main$2$$anonfun$apply$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Tag/TagContext3$$anonfun$main$2$$anonfun$apply$4$$anonfun$apply$5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Tag/TagContext3$$anonfun$main$2$$anonfun$apply$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Tag/TagContext3$$anonfun$main$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Tag/TagContext3$$anonfun$main$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Tag/TagContext3$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Tag/TagContext3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Tag/TagsAd$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Tag/TagsAd.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Tag/TagsApp$$anonfun$makeTags$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Tag/TagsApp$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Tag/TagsApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Tag/TagsApp_redis$$anonfun$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Tag/TagsApp_redis$$anonfun$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Tag/TagsApp_redis$$anonfun$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Tag/TagsApp_redis$$anonfun$4$$anonfun$apply$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Tag/TagsApp_redis$$anonfun$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Tag/TagsApp_redis$$anonfun$main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Tag/TagsApp_redis$$anonfun$main$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Tag/TagsApp_redis$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Tag/TagsApp_redis.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Tag/TagsApp_redis_fun$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Tag/TagsApp_redis_fun.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Tag/TagsChannl$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Tag/TagsChannl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Tag/TagsKeyWord$$anonfun$makeTags$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Tag/TagsKeyWord$$anonfun$makeTags$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Tag/TagsKeyWord$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Tag/TagsKeyWord.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Tag/TagsProvince_City$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Tag/TagsProvince_City.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Tag/TagsTerminal$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/Tag/TagsTerminal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/channl/Channl$$anonfun$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/channl/Channl$$anonfun$main$1$$anonfun$apply$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/channl/Channl$$anonfun$main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/channl/Channl$$anonfun$main$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/channl/Channl$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/channl/Channl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/media/Media$$anonfun$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/media/Media$$anonfun$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/media/Media$$anonfun$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/media/Media$$anonfun$4$$anonfun$apply$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/media/Media$$anonfun$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/media/Media$$anonfun$main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/media/Media$$anonfun$main$2$$anonfun$apply$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/media/Media$$anonfun$main$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/media/Media$$anonfun$main$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/media/Media$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/media/Media.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/terminal/Device$$anonfun$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/terminal/Device$$anonfun$main$1$$anonfun$apply$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/terminal/Device$$anonfun$main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/terminal/Device$$anonfun$main$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/terminal/Device$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/terminal/Device.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/terminal/Net$$anonfun$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/terminal/Net$$anonfun$main$1$$anonfun$apply$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/terminal/Net$$anonfun$main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/terminal/Net$$anonfun$main$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/terminal/Net$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/terminal/Net.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/terminal/Operation$$anonfun$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/terminal/Operation$$anonfun$main$1$$anonfun$apply$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/terminal/Operation$$anonfun$main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/terminal/Operation$$anonfun$main$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/terminal/Operation$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/terminal/Operation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/terminal/Os$$anonfun$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/terminal/Os$$anonfun$main$1$$anonfun$apply$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/terminal/Os$$anonfun$main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/terminal/Os$$anonfun$main$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/terminal/Os$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/terminal/Os.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/test/JSONUtils2$$anonfun$main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/test/JSONUtils2$$anonfun$main$2$$anonfun$apply$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/test/JSONUtils2$$anonfun$main$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/test/JSONUtils2$$anonfun$main$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/test/JSONUtils2$$anonfun$main$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/test/JSONUtils2$$anonfun$main$5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/test/JSONUtils2$$anonfun$main$6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/test/JSONUtils2$$anonfun$str2JSON$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/test/JSONUtils2$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/test/JSONUtils2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/test01/Demo$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/test01/Demo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/test01/JsonObjectUtils$$anonfun$getBusinessFromPois$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/test01/JsonObjectUtils$$anonfun$getBusinessTypeFromPois$1$$anonfun$apply$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/test01/JsonObjectUtils$$anonfun$getBusinessTypeFromPois$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/test01/JsonObjectUtils$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/test01/JsonObjectUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/test01/TagsType$$anonfun$makeTags$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/test01/TagsType$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/test01/TagsType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/utils/AmapUtils$$anonfun$getBusinessFromAmap$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/utils/AmapUtils$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/utils/AmapUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/utils/App2Redis$$anonfun$main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/utils/App2Redis$$anonfun$main$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/utils/App2Redis$$anonfun$main$3$$anonfun$apply$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/utils/App2Redis$$anonfun$main$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/utils/App2Redis$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/utils/App2Redis.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/utils/HttpUtils$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/utils/HttpUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/utils/Mysql$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/utils/Mysql.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/utils/RedisPool$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/utils/RedisPool.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/utils/RqtUtils$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/utils/RqtUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/utils/Tag.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/utils/TagUtils$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/utils/TagUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/utils/Utils2Type$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/utils/Utils2Type.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/utils/test$$anonfun$main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/utils/test$$anonfun$main$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/utils/test$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/utils/test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/graphx/Graph_test$$anonfun$main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/graphx/Graph_test$$anonfun$main$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/graphx/Graph_test$$anonfun$main$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/graphx/Graph_test$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/graphx/Graph_test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/test0824/Tags$$anonfun$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/test0824/Tags$$anonfun$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/test0824/Tags$$anonfun$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/test0824/Tags$$anonfun$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/test0824/Tags$$anonfun$main$1$$anonfun$apply$mcVI$sp$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/test0824/Tags$$anonfun$main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/test0824/Tags$$anonfun$main$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/test0824/Tags$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/test0824/Tags.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,13 +309,23 @@
     <option name="testRunner" value="GRADLE" />
     <option name="delegatedBuild" value="true" />
   </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1415181002">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+            <state relative-caret-position="308">
+              <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -31,18 +336,25 @@
     <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Maven_jar" />
         <option name="mavenHome" value="H:/../Maven/apache-maven-3.6.1" />
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="825" />
-    <option name="y" value="157" />
-    <option name="width" value="1110" />
-    <option name="height" value="745" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="517" />
+    <option name="y" value="75" />
+    <option name="width" value="1345" />
+    <option name="height" value="1028" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -62,20 +374,21 @@
       </pane>
       <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566214263497" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566972805041" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -100,28 +413,23 @@
       <option name="presentableId" value="Default" />
       <updated>1566204787049</updated>
       <workItem from="1566204790305" duration="1033000" />
+      <workItem from="1566972730598" duration="46000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1033000" />
+    <option name="totallyTimeSpent" value="1079000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="61" y="169" width="1110" height="745" extended-state="0" />
+    <frame x="-7" y="33" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="Image Layers" />
-      <window_info id="Capture Tool" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1427614" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="FindBugs-IDEA" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -129,32 +437,66 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="SciView" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="right" id="Maven Projects" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="SciView" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+        <state relative-caret-position="308">
+          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
         </state>
       </provider>
     </entry>
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
           <splitter-proportions>
@@ -168,10 +510,24 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
+          <last-edited>1.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>GP_2205_DMP</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
@@ -191,6 +547,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>scala-sdk-2.10.6</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
